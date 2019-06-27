@@ -1,2 +1,2 @@
-tell application "Alfred 3" to search "df {popclip text}"
+tell application "Alfred 4" to search "df {popclip text}"
 
