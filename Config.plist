@@ -19,7 +19,7 @@
 	<array>
 		<dict>
 			<key>Bundle Identifier</key>
-			<string>com.runningwithcrayons.Alfred-3</string>
+			<string>com.runningwithcrayons.Alfred</string>
 			<key>Check Installed</key>
 			<true/>
 			<key>Link</key>
@@ -29,9 +29,9 @@
 		</dict>
 	</array>
 	<key>Extension Description</key>
-	<string>Use Alfred dictionary workflow to lookup the selected text. (Requires Alfred v3.)</string>
+	<string>Use Alfred dictionary workflow to lookup the selected text. (Requires Alfred v4.)</string>
 	<key>Extension Identifier</key>
-	<string>chenhouwu.popclip.extension.alfred</string>
+	<string>maomao.popclip.extension.alfred</string>
 	<key>Extension Name</key>
 	<string>Alfred Dict</string>
 </dict>
